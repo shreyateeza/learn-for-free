@@ -1,4 +1,8 @@
-# Security
+---
+layout: page
+title: Security
+permalink: /security/
+---
 
 This file contains resources to learn digital security skills and concepts.
 

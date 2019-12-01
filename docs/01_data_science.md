@@ -1,4 +1,8 @@
-# Data Science
+---
+layout: page
+title: Data Science
+permalink: /data-science/
+---
 
 This file contains resources to learn about Data Science and its sub fields.
 

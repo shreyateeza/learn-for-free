@@ -1,4 +1,8 @@
-# Programming And Software Development
+---
+layout: page
+title: Programming
+permalink: /programming/
+---
 
 This file contains resources to learn programming and software development. This file is divided into 2 parts - Goal-Oriented and General Purpose. 
 

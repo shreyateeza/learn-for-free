@@ -1,4 +1,8 @@
-# Marketing
+---
+layout: page
+title: Marketing
+permalink: /marketing/
+---
 
 This files contains resources for marketing. The [Digital Marketing](#digital-marketing) section contains courses that are too general to be included in specific sections like Email Marketing or Facebook Ads.
 

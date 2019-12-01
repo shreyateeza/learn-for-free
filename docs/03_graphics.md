@@ -1,4 +1,8 @@
-# Computer Graphics
+---
+layout: page
+title: Graphics
+permalink: /graphics/
+---
 
 This file contains resources related to computer graphics and animation.
 

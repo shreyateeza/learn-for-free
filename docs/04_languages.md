@@ -1,4 +1,8 @@
-# Languages
+---
+layout: page
+title: Languages
+permalink: /languages/
+---
 
 This file contains resources to learn languages of the world. Best use <kbd>Cmd</kbd> + <kbd>F</kbd> (or <kbd>Ctrl</kbd> + <kbd>F</kbd>) and then search for the language you want to learn to locate the resource.
 
