@@ -18,11 +18,11 @@ print("Name: {}".format(data['name']))
 contributors_info = []
 for contributor in data:
     combined = []
-    combined.append(data['name'])
+    combined.append(data['id'])
     combined.append(data['login'])
     contributors_info.append(combined)
 
-contributors_df = pd.DataFrame(contributors_info, columns = ['Name', 'Username'])
+contributors_df = pd.DataFrame(contributors_info, columns = ['Username', 'Name'])
 contributors_df.to_csv('contributors_info.csv', index = False)
 print("Saved contributors list to contributors_info.csv")
 
